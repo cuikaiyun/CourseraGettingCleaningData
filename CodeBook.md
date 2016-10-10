@@ -1,14 +1,3 @@
----
-title: "CodeBook_averagedataset.txt"
-author: "Kaiyun Cui"
-date: "10/8/2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 The data set in "averagedataset.txt" contains a tidy data set with the average of each variable for each activity and each subject.
 
 ### subjectid
